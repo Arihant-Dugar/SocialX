@@ -7,3 +7,4 @@ Libraries used :
 2) Volley Library to get the Json response object from the api.
 3) Firebase Integration and authentication dependencies
 4) newsapi.org news api to fetch Indian news only.
+5) View Binding was used for quick acess to views and layouts.
